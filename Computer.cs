@@ -17,7 +17,7 @@ namespace Technology
         public int version { get; set; } = 1;
 
         public Computer() {
-            Console.WriteLine("Computer constructor is called");
+            //Console.WriteLine("Computer constructor is called");
         }
 
         public Computer(bool PhysicalKeyboard, int ScreenSize, string Model, string OS)
