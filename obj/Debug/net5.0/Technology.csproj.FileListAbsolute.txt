@@ -1,0 +1,16 @@
+E:\Educational\CSharp\ch21\Technology\obj\Debug\net5.0\Technology.csproj.AssemblyReference.cache
+E:\Educational\CSharp\ch21\Technology\obj\Debug\net5.0\Technology.GeneratedMSBuildEditorConfig.editorconfig
+E:\Educational\CSharp\ch21\Technology\obj\Debug\net5.0\Technology.AssemblyInfoInputs.cache
+E:\Educational\CSharp\ch21\Technology\obj\Debug\net5.0\Technology.AssemblyInfo.cs
+E:\Educational\CSharp\ch21\Technology\obj\Debug\net5.0\Technology.csproj.CoreCompileInputs.cache
+E:\Educational\CSharp\ch21\Technology\bin\Debug\net5.0\Technology.exe
+E:\Educational\CSharp\ch21\Technology\bin\Debug\net5.0\Technology.deps.json
+E:\Educational\CSharp\ch21\Technology\bin\Debug\net5.0\Technology.runtimeconfig.json
+E:\Educational\CSharp\ch21\Technology\bin\Debug\net5.0\Technology.runtimeconfig.dev.json
+E:\Educational\CSharp\ch21\Technology\bin\Debug\net5.0\Technology.dll
+E:\Educational\CSharp\ch21\Technology\bin\Debug\net5.0\ref\Technology.dll
+E:\Educational\CSharp\ch21\Technology\bin\Debug\net5.0\Technology.pdb
+E:\Educational\CSharp\ch21\Technology\obj\Debug\net5.0\Technology.dll
+E:\Educational\CSharp\ch21\Technology\obj\Debug\net5.0\ref\Technology.dll
+E:\Educational\CSharp\ch21\Technology\obj\Debug\net5.0\Technology.pdb
+E:\Educational\CSharp\ch21\Technology\obj\Debug\net5.0\Technology.genruntimeconfig.cache
